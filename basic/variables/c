@@ -1,0 +1,11 @@
+mode: set
+learngo/basic/variables/variables.go:9.26,15.2 2 0
+learngo/basic/variables/variables.go:16.26,22.2 2 0
+learngo/basic/variables/variables.go:24.30,27.2 2 0
+learngo/basic/variables/variables.go:29.33,32.2 2 0
+learngo/basic/variables/variables.go:34.14,36.2 1 0
+learngo/basic/variables/variables.go:38.17,42.2 3 0
+learngo/basic/variables/variables.go:44.33,47.2 2 1
+learngo/basic/variables/variables.go:49.18,57.2 4 0
+learngo/basic/variables/variables.go:59.13,78.2 4 0
+learngo/basic/variables/variables.go:80.13,92.2 9 0
